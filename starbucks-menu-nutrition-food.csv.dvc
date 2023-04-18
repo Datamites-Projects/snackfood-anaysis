@@ -1,0 +1,4 @@
+outs:
+- md5: e86f70e74fa23fc6d54d6b0466c88dd6
+  size: 9862
+  path: starbucks-menu-nutrition-food.csv

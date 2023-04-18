@@ -1,0 +1,4 @@
+outs:
+- md5: 6a0115b0c7a8c1c2431f8bee3acb0f2c
+  size: 26898
+  path: starbucks_drinkMenu_expanded.csv

@@ -1,0 +1,4 @@
+outs:
+- md5: 5228954191abb52a5a52a6417daa3562
+  size: 8523
+  path: starbucks-menu-nutrition-drinks.csv
